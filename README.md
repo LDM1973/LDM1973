@@ -11,5 +11,5 @@
 
 <div align="center">
   <br>
-  <img height="75%" src="https://raw.githubusercontent.com/LDM1973/github-stats-terminal-style/759605c0237d0e1340ad77620ad6e950c2a87e91/github_stats.svg">
+  <img height="480px" src="https://user-images.githubusercontent.com/88509203/194447704-d8eb71fe-50b3-4c00-9bfe-5bd97253d631.gif">
 </div>
