@@ -3,7 +3,7 @@
 <br />
 <ul>
   <li>📍 Moro em São Paulo;</li>
-  <li>💡 Gosto de frontend e UX/UI design, atualmente aprendendo React e UX/UI design;</li>
+  <li>💡 Gosto de frontend, atualmente aprendendo React e UX/UI design;</li>
   <li>📕 estudando Análise e Desenvolvimento de Sistemas na FATEC Ipiranga;</li>
   <li>🤝 Colaborando com o projeto de TCC chamado "Cartão Vermelho";</li>
 </ul>
