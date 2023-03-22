@@ -3,7 +3,7 @@
 <br />
 <ul>
   <li>📍 Moro em São Paulo;</li>
-  <li>💡 Web Designer</li>
+  <li>💡 Web Designer;</li>
   <li>📕 estudando Análise e Desenvolvimento de Sistemas na FATEC Ipiranga;</li>
   <li>🤝 Colaborando com o projeto de TCC chamado "Cartão Vermelho";</li>
 </ul>
